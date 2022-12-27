@@ -1,0 +1,3 @@
+<h1> GPLVM tutorial </h1>
+
+This repository contains a jupyter notebook for explaining GPLVMs, as described by [Lawrence (2005)](https://www.jmlr.org/papers/volume6/lawrence05a/lawrence05a.pdf). This was designed  for a session where I was simultaneously talking through the notebook, so I do not expect it to be fully understandable standing alone. However, I hope that this material can help anyone trying to understand the function of GPLVMs, and if you have any comments/suggestions please feel free to comment them as an issue for this repository so I can improve the clarity of the notebook :)
